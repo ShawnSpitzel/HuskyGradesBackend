@@ -1,9 +1,6 @@
 package dev.shawnspitzel.students;
 
 import dev.shawnspitzel.classes.Class_Items;
-import dev.shawnspitzel.gradeCategories.GradeCategory;
-import dev.shawnspitzel.grades.Grades;
-import jakarta.annotation.Nullable;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;

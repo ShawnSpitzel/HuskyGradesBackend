@@ -1,6 +1,5 @@
 package dev.shawnspitzel.grades;
 
-import dev.shawnspitzel.classes.Class_Items;
 import dev.shawnspitzel.gradeCategories.GradeCategory;
 import dev.shawnspitzel.gradeCategories.GradeCategoryRepository;
 import org.springframework.http.ResponseEntity;
